@@ -1,12 +1,5 @@
-# BigData-Nyu-NYPD-Complaint-Data-HistoricPublic-Safety
+# NYPD CRIME DATA ANALYSIS
 This Repo will consist of the work that is done as part of the big data project 
-
-Team Memebrs:-
-| Name          |    Net-Id|
-| ------------- | ------------- |
-| Max Albrecht  |       ma5416  |
-| Saketh        |       SP6322  |
-| Sanjana       |       lk2849  |
 
 Link to see the transformations : https://github.com/sakethreddy997/BigData-Nyu-NYPD-Complaint-Data-HistoricPublic-Safety/blob/main/Bigdata_part1.ipynb
 
