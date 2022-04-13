@@ -1,7 +1,7 @@
 # NYPD CRIME DATA ANALYSIS
 This Repo will consist of the work that is done as part of the big data project 
 
-Link to see the transformations : https://github.com/sakethreddy997/BigData-Nyu-NYPD-Complaint-Data-HistoricPublic-Safety/blob/main/Bigdata_part1.ipynb
+Link to see the transformations : https://github.com/Lakshmi-Sanjana-Kalidindi/NYPD-Crime-Data-Analysis/blob/main/Bigdata_part1.ipynb
 
 # What did we do with this data ?
 1. Data Exploration
